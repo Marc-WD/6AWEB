@@ -1,0 +1,28 @@
+.cv-footer {
+  background-color: #1a1a1a;
+  color: #f1f1f1;
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 14px;
+  margin-top: 40px;
+}
+
+.cv-footer a {
+  color: #f1f1f1;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.cv-footer a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact,
+.footer-social {
+  margin-top: 10px;
+}
+
+.footer-contact span {
+  display: inline-block;
+  margin: 0 10px;
+}
